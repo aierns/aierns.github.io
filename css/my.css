@@ -1,1 +1,32 @@
-/* Here is your custom css styles. */
+body {
+    cursor: url(/medias/cursor1.png),
+        default;
+}
+a
+{
+    cursor: url(/medias/cursor4.png),
+        auto;
+}
+p{
+    cursor: url(/medias/cursor-text.png),
+    auto;
+}
+.title
+{
+    cursor: url(/medias/cursor2.png),
+    auto;
+}
+.waves-light
+{
+    cursor: url(/medias/cursor4.png),
+    auto;
+}
+.btn{
+    cursor: url(/medias/cursor2.png),
+    auto;
+}
+:active
+{
+    cursor: url(/medias/cursor2.png),
+    pointer;
+}
